@@ -1,7 +1,7 @@
 import openai
 
  # Set up the API key for OpenAI
-openai.api_key = "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"
+openai.api_key = ""
 # Define the chat history and initial context
 chat_history = []
 context = ""
