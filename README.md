@@ -22,6 +22,4 @@ To chat with the bot, simply send a message and wait for a response. The bot wil
 The chat history is stored in a list called history, and the current prompt is stored in a string called prompt. The generate_response() function in the backend.py file is responsible for generating responses based on the chat history.
 
 ##Contributors
-[YOUR NAME HERE] - [YOUR EMAIL HERE] - [YOUR WEBSITE HERE]
-License
-This project is licensed under the MIT License.
+Maksym Pokrovskyi - maxxox@gmail.com - [YOUR WEBSITE HERE]
